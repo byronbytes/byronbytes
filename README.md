@@ -1,6 +1,6 @@
 # README.md
 
-👋Hey, I'm Byron! My main hobby is coding and I am currently learning C# and along the way I will try learning more HTML. Some other languages I had tried before were Python, Java, and VB.NET.
+👋Hey, I'm Byron! My main hobby is coding and I am currently learning C# and along the way I will try learning more HTML. Some other languages I had tried before were Java and VB.NET.
 
 ## Stats
 
