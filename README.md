@@ -7,13 +7,13 @@ I always had an interest with technology and coding ever since I was 9. I starte
 
 
 ## Main Projects
-- [[Tasks]](github.com/LiteTools/Tasks) - A Computer Optimizer
+- [Tasks](github.com/LiteTools/Tasks) - A Computer Optimizer
 
-- [[Glance]](github.com/LiteTools/Glance) - A Widgets Application
+- [Glance](github.com/LiteTools/Glance) - A Widgets Application
 
 
 ### Side Projects
-- [[Winbox]](github.com/LiteTools/Winbox) - A Computer Tweaking Tool
+- [Winbox](github.com/LiteTools/Winbox) - A Computer Tweaking Tool
 
 
 
