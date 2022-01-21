@@ -3,7 +3,7 @@
 👋 Hey, I'm Byron! My main career is programming and working with code. I code in C# and I use Visual Studio as my IDE.
 
 ## About Me
-I always had an interest with coding and technology ever since a young age. I started using a computer since I was 2 years old and I started creating scripts and programs at the age of 9. In the beginning I coding with small batch scripts and VBS, and later, around 10-11 years old I started to learn C# and more. I started a business called LiteTools, which you can visit at https://litetools.net
+I always had an interest with coding and technology ever since a young age. I started using a computer since I was 2 years old and I started creating scripts and programs at the age of 9 using VBS and Batch. When I was 10-11 years old I started to learn VB.NET and c#. I started a business called LiteTools, which you can visit at https://litetools.net
 
 ## Main Projects
 - Tasks
