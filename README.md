@@ -3,8 +3,7 @@
 👋 Hey, I'm Byron! My main career is programming and working with code. I code in C# and I use Visual Studio as my IDE.
 
 ## About Me
-I always had an interest with technology and coding ever since I was 9. I started with just a few VBScripts and Batch files, and then went to real coding languages. Also, I started a little company called LiteTools, and it's going really well so far! You can check out the official website at https://litetools.net!
-
+I always had an interest with technology and coding ever since I was 9. I started with just a few VBScripts and Batch files, and then went to real coding languages. Also, I started a business called LiteTools, which you can visit at https://litetools.net
 
 ## Main Projects
 - Tasks - A Computer Optimizer 
