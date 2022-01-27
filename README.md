@@ -13,6 +13,6 @@ I always had an interest with coding and technology ever since a young age. I st
 
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=byronbytes&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=byronbytes&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/api?username=byronbytes&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/api?username=byronbytes&theme=onedark&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/ryo-ma/github-profile-trophy)
