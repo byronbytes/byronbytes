@@ -13,7 +13,7 @@ I am currently developing software for my own business called LiteTools. You can
 #### Languages
 - C# (Experienced)
 
-- VB.NET (Intermediate) (Stopped learning in 2019)
+- VB.NET (Intermediate) (Stopped learning in 2020)
 
 - Java (Learning)
 
@@ -24,6 +24,16 @@ I am currently developing software for my own business called LiteTools. You can
 - Programming (Expert)
 
 - Cybersecurity (Learning)
+
+
+#### IDEs
+- Visual Studio (Expert)
+
+- IntelliJ Idea (Intermediate)
+
+- Visual Studio Code (Intermediate)
+
+- Eclipse (Intermediate) (Stopped Using)
 
 
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/intellij.svg" width=5% height=5%> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" width=5% height=5%> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" width=7% height=7%> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width=5% height=5%>
