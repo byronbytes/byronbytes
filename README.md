@@ -8,10 +8,31 @@
 I am currently developing software for my own business called LiteTools. You can visit our site at https://litetools.net. I can't think of some about me details, so I will update this later.
 
 
-## Main Projects
-- Tasks
+## My Areas of Technology
 
-- QuickLock 
+#### Languages
+- C# (Experienced)
+
+- VB.NET (Intermediate) (Stopped learning in 2019)
+
+- Java (Learning)
+
+- HTML (Beginner)
+
+
+#### Professions
+- Programming (Expert)
+
+- Cybersecurity (Learning)
+
+
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/intellij.svg" width=5% height=5%> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" width=5% height=5%> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" width=7% height=7%> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width=5% height=5%>
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" width=5% height=5%> 
+
+
+
+
+
 
 
 ## Stats
