@@ -27,7 +27,7 @@ I am currently developing software for my own business called LiteTools. You can
 
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=byronbytes&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=byronbytes&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/api?username=byronbytes&theme=onedark&row=2&column=3include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/ryo-ma/github-profile-trophy)
 
