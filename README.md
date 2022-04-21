@@ -1,5 +1,7 @@
 # Byron
 
+![](https://komarev.com/ghpvc/?username=byronbytes)
+
 👋 Hey, I'm Matty, a programmer and tech enthusiast who wants to make the world a better place. I am mostly experienced with C# and WinForms. My two main IDE's are Visual Studio and IntelliJ Idea. I am also currently trying to learn Java and a few other languages that would help me make new projects.
 
 
