@@ -7,11 +7,14 @@
 #### Languages
 - C# (Experienced)
 
-- VB.NET (Intermediate) (Stopped learning in 2020)
+- Java (Beginner)
 
-- Java (Learning)
+#### Other Languages
+- VB.NET (Learned in 2019)
 
-- HTML (Beginner)
+- Python (Have plans to learn soon)
+
+- HTML (Have plans to learn soon)
 
 
 ## Stats
