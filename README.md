@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=byronbytes)
 
-👋 Hey, I'm Matty, a programmer who wants to make the world a better place. I am mostly experienced with C# and WinForms.
+👋 Hey, I'm Matty, a programmer who wants to make the world a better place. I am mostly experienced with C# and WinForms. I'm also the founder of LiteTools.
 
 ## Areas of Technology
 
