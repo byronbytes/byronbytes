@@ -1,20 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=byronbytes)
 
-👋 Hey, I'm Matty, a programmer who wants to make the world a better place. I am mostly experienced with C# and WinForms. I'm also the founder of LiteTools.
+👋 Hey, I'm Matty, a programmer who wants to make the world a better place. I'm focused on programming in C# and Java, and I also created LiteTools which is a business that aims to make apps that enhance productivity and efficiency. I've always had an interest with computers since a very young age and started to do programming in 2017.
 
-## Areas of Technology
-
-#### Languages
-- C# (Experienced)
-
-- Java (Beginner)
-
-#### Other Languages
-- VB.NET (Learned in 2019)
-
-- Python (Have plans to learn soon)
-
-- HTML (Have plans to learn soon)
+#### Experiences
+I am mainly experienced in C# and WinForms and I'm also going to be learning Java.
 
 
 ## Stats
