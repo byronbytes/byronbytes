@@ -1,11 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=byronbytes)
 
 # 👋 Hey, I'm Matty. 
+## I'm a programmer who wants to make the world a better place. My main hobby is developing software and working with code.
+
+
 I focus with the following languages.
 
 - C#
 - Java
 - Learning HTML / CSS
+
+### My Projects
 
 
 
