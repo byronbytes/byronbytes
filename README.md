@@ -11,8 +11,8 @@ I focus with the following languages.
 - Learning HTML / CSS
 
 ### My Projects
-- 🧹 An open source computer optimizer called [https://github.com/LiteTools/Tasks](Tasks)
-- 🚫 A way to permanently remove Alexa from any Amazon device [https://github.com/byronbytes/NoLexa](NoLexa]
+- 🧹 An open source computer optimizer called [Tasks](https://github.com/LiteTools/Tasks)
+- 🚫 A way to permanently remove Alexa from any Amazon device [NoLexa](https://github.com/byronbytes/NoLexa)
 - 🖥 Working on a personal website at https://byron.lol
 - 🏫 Taking an AP class for computer science.
 - 🌐 Also trying to get a start into cybersecurity, alongside software development and programming.
