@@ -12,7 +12,10 @@ I focus with the following languages.
 
 ### My Projects
 - 🧹 An open source computer optimizer called [https://github.com/LiteTools/Tasks](Tasks)
-- 🚫A way to permanently remove Alexa from any Amazon device [https://github.com/byronbytes/NoLexa](NoLexa)
+- 🚫 A way to permanently remove Alexa from any Amazon device [https://github.com/byronbytes/NoLexa](NoLexa)
+- 🖥 Working on a personal website at https://byron.lol
+- 🏫 Taking an AP class for computer science.
+- 🌐 Also trying to get a start into cybersecurity, alongside software development and programming.
 
 
 ## Stats
