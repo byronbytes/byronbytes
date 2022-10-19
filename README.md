@@ -11,7 +11,8 @@ I focus with the following languages.
 - Learning HTML / CSS
 
 ### My Projects
-
+- 🧹 An open source computer optimizer called [https://github.com/LiteTools/Tasks](Tasks)
+- 🚫A way to permanently remove Alexa from any Amazon device [https://github.com/byronbytes/NoLexa](NoLexa)
 
 
 ## Stats
