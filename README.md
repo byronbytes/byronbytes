@@ -19,6 +19,7 @@ I focus with the following languages.
 
 ### Big Contributions
 - 🏢 Contributed to a few Microsoft repositories.
+- 🏗 Ran my own business from 2021 - 2022. [Blog Post TBD]
 
 
 ## Stats
