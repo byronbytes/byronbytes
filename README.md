@@ -28,7 +28,7 @@ I also work with WinForms and have plans to learn WPF.
 - 🌐 Also trying to get a start into cybersecurity, alongside software development and programming.
 
 ### Big Contributions
-- 🏢 Contributed to a few Microsoft repositories.
+- 🏢 Contributed to various Microsoft repositories.
 - 🏗 Ran my own business from 2021 - 2022. [Blog Post Here](https://byron.lol/blog/2022/10/21.html)
 
 
