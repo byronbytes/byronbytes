@@ -10,11 +10,21 @@ I focus with the following languages.
 - Java
 - Learning HTML / CSS
 
+I use the following IDEs.
+
+- Visual Studio 2019
+- Visual Studio Code
+- IntelliJ Idea
+- (Occasionally) BlueJ
+
+I also work with WinForms and have plans to learn WPF.
+
+
 ### My Projects
 - 🧹 An open source computer optimizer called [Tasks](https://github.com/LiteTools/Tasks).
 - 🚫 A way to permanently remove Alexa from any Amazon device [NoLexa](https://github.com/byronbytes/NoLexa).
 - 🖥 Working on a personal website at https://byron.lol
-- 🏫 Taking an AP class for computer science.
+- 🏫 Taking an AP class for CS.
 - 🌐 Also trying to get a start into cybersecurity, alongside software development and programming.
 
 ### Big Contributions
