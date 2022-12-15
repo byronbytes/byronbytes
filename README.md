@@ -4,20 +4,20 @@
 ## I'm a programmer who wants to make the world a better place. My main hobby is developing software and working with code.
 
 
-I focus with the following languages.
+**I focus with the following languages.**
 
 - C#
 - Java
-- Learning HTML / CSS
+- HTML / CSS
 
-I use the following IDEs.
+**I use the following IDEs.**
 
 - Visual Studio 2019
 - Visual Studio Code
 - IntelliJ Idea
 - (Occasionally) BlueJ
 
-I also work with WinForms and have plans to learn WPF.
+I work with WinForms and have plans to learn WPF.
 
 
 ### My Projects
@@ -25,7 +25,7 @@ I also work with WinForms and have plans to learn WPF.
 - 🚫 A way to permanently remove Alexa from any Amazon device [NoLexa](https://github.com/byronbytes/NoLexa).
 - 🖥 Working on a personal website at https://byron.lol
 - 🏫 Taking an AP class for CS.
-- 🌐 Also trying to get a start into cybersecurity, alongside software development and programming.
+- 🌐 Getting a start into cybersecurity, alongside software development and programming.
 
 ### Big Contributions
 - 🏢 Contributed to various Microsoft repositories.
