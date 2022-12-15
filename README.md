@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=byronbytes)
 
-# 👋 Hey, I'm Matty. 
+# 👋 Hey, I'm Byron. 
 ## I'm a programmer who wants to make the world a better place. My main hobby is developing software and working with code.
 
 
