@@ -35,9 +35,9 @@
 ***
 
 ## Stats
-[![Byron's GitHub Stats - 2022](https://github-readme-stats-one-bice.vercel.app/api?username=byronbytes&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Byron's GitHub Stats - 2022](https://github-readme-stats-one-bice.vercel.app/api?username=byronbytes&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=byronbytes&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=byronbytes&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Views
 ![](https://komarev.com/ghpvc/?username=byronbytes)
