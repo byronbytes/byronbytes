@@ -9,13 +9,14 @@
 - C#
 - Java
 - HTML / CSS
+- Python
 
 ***
 
 **I use the following IDEs.**
 
-- Visual Studio 2019
 - Visual Studio Code
+- Visual Studio 2019
 - IntelliJ Idea
 ***
 
