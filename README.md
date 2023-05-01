@@ -1,10 +1,8 @@
 
 
 # 👋 Hey, I'm Byron. 
-### I'm a programmer who is fluent with C# and Java. I'm a big tech, software, and hardware enthusiast.
 
-
-**I am learning the following languages.**
+**I'm learning the following languages.**
 
 - C#
 - Java
@@ -21,8 +19,8 @@
 ***
 
 ### My Projects
-- 🧹 An open source computer optimizer called [Tasks](https://github.com/LiteTools/Tasks).
-- 🚫 A way to permanently remove Alexa from any Amazon device [NoLexa](https://github.com/byronbytes/NoLexa).
+- 🧹 Open source computer optimizer called [Tasks](https://github.com/LiteTools/Tasks).
+- 🚫 Permanently remove Alexa from any Amazon device [NoLexa](https://github.com/byronbytes/NoLexa).
 - 🖥 Working on a personal website at https://byron.lol
 - 🏫 Taking an AP class for Computer Science.
 - 🌐 Focusing in cybersecurity, alongside programming and software development.
@@ -32,7 +30,7 @@
 ### Big Milestones
 - 🏢 Contributed to various Microsoft repositories.
 - 🏗 Ran my own business from 2021 - 2023. [Blog Post Here](https://byron.lol/blog/2022/10/21.html)
-
+- 🎖️ Almost 10k+ downloads on a software I've developed.  
 ***
 
 ## Stats
