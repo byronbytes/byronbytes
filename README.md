@@ -1,5 +1,3 @@
-
-
 # 👋 Hey, I'm Byron. 
 
 **I'm learning the following languages.**
@@ -22,12 +20,12 @@
 - 🧹 Open source computer optimizer called [Tasks](https://github.com/LiteTools/Tasks).
 - 🚫 Permanently remove Alexa from any Amazon device [NoLexa](https://github.com/byronbytes/NoLexa).
 - 🖥 Working on a [personal website](https://byron.lol).
-- 🏫 Took AP Computer Science in 2022-2023.
-- 🌐 Focusing in cybersecurity, alongside programming and software development.
+- 🌐 Interested in cybersecurity, alongside programming and software development.
 
 ***
 
 ### Milestones and Achievements
+- 🏫 Took AP Computer Science in 2022-2023.
 - 🏢 Contributed to a few Microsoft repositories.
 - 🏗 Ran my own business from 2021 - 2023. [Blog Post Here](https://byron.lol/blog/2022/10/21.html)
 - 🎖️ Almost 10k+ downloads on a software I've developed.  
