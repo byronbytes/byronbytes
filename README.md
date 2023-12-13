@@ -1,18 +1,19 @@
-# 👋 Hey, I'm Byron. 
+# 👋 I'm Byron
 
-**I'm learning the following languages.**
-
+**I'm learning the following languages**
 - C#
-- Java
+- Javascript
+- PHP
 - HTML / CSS
+- Java
 
 ***
 
-**I use the following IDEs.**
-
+**I use the following IDEs**
 - Visual Studio Code
 - Visual Studio 2019 / 2022
 - IntelliJ Idea
+  
 ***
 
 ### My Projects
@@ -21,15 +22,16 @@
 - 🌐 Interested in cybersecurity, alongside programming and software development.
 
 ***
-
+<!--
 ### Milestones and Achievements
 - 🏫 Took AP Computer Science in 2022-2023.
 - 🏢 Contributed to a few Microsoft repositories.
 - 🏗 Ran my own business from 2021 - 2023.
 ***
+-->
 
 ## Stats
 [![Byron's GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=byronbytes&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=byronbytes&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![byron stats 2](https://github-profile-trophy.vercel.app/?username=byronbytes&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
